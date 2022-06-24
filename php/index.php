@@ -12,13 +12,13 @@
 
     <div id="home-slider">
 
-        <!-- <div><img src="../background/index.jpg" alt=""></div>
+        <div><img src="../background/index.jpg" alt=""></div>
 
         <div><img src="../rough-img/bg-home.jpg" alt=""></div>
 
         <div><img src="../rough-img/bg2-home.jpg" alt=""></div>
 
-        <div><img src="../rough-img/bg3-home.jpg" alt=""></div> -->
+        <div><img src="../rough-img/bg3-home.jpg" alt=""></div>
 
     </div>
 
