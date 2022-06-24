@@ -1,0 +1,44 @@
+   <ul class="megamenu-ul shadow" role="menu">
+                            <li>
+                                <div class="row justify-content-evenly">
+                                    <div class="col-menu col-md-4">
+                                        <h6 class="title">EPR Services</h6>
+                                        <div class="content">
+                                            <ul class="menu-col">
+                                                <li><a href="s-1.php">Plastic  </a></li>
+                                                <li><a href="s-2.php">E-Waste </a></li>
+                                                <li><a href="s-4.php">Batteries</a></li>
+                                                <li><a href="s-5.php">Rubber and tyres</a></li>
+                                                <a href="services.php" class="btn">More <span><i class="fas fa-chevron-right"></i></span></a>
+                                            </ul>
+                                        </div>
+                                    </div><!-- end col-3 -->
+                                    <div class="col-menu col-md-4">
+                                        <h6 class="title">Waste Commodity</h6>
+                                        <div class="content">
+                                            <ul class="menu-col">
+                                                <li><a href="s-1.php">Plastic</a></li>
+                                                <li><a href="s-6.php">Glass</a></li>
+                                                <li><a href="s-4.php">Batteries</a></li>
+                                                <li><a href="s-5.php">Rubber and tyres</a></li>
+                                                <a href="services.php" class="btn">More <span><i class="fas fa-chevron-right"></i></span></a>
+                                            </ul>
+                                        </div>
+                                    </div><!-- end col-3 -->
+                                    <div class="col-menu col-md-4">
+                                        <h6 class="title">Technology Consulting</h6>
+                                        <div class="content">
+                                            <ul class="menu-col">
+                                                <li><a href="s-7.php">Recycling Unit</a></li>
+                                                <li><a href="s-9.php">Waste 2 in 1 plant</a></li>
+                                                <li><a href="s-8.php">Waste to energy plants</a></li>
+                                                <li><a href="s-10.php">Paver Block making unit</a></li>
+                                                <li><a href="s-11.php">Furniture making unit</a></li>
+                                                <li><a href="s-12.php">MRF Design and Commissioning</a></li>
+                                                <a href="services.php" class="btn">More <span><i class="fas fa-chevron-right"></i></span></a>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div><!-- end row -->
+                            </li>
+                        </ul>
